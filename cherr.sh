@@ -1,3 +1,3 @@
 
-echo " new cherry"
+echo " cherry "
 
