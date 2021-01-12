@@ -1,1 +1,1 @@
-echo "three file"
+echo "three"
